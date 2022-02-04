@@ -5,7 +5,7 @@ I'm Aldi Saragih, a self-motivated tech enthusiast
 </p>
 
 <h4 align="center">
-💻 Backend Developer at PuTI Telkom University | 📱 Build <a href="https://play.google.com/store/apps/details?id=com.suncode.debt">Debt - Personal Debt Recording</a>
+💻 Backend Developer at <a href="https://it.telkomuniversity.ac.id/">PuTI Telkom University</a> | 📱 Build <a href="https://play.google.com/store/apps/details?id=com.suncode.debt">Debt - Personal Debt Recording</a>
 </h4>
 <p  align="center">
   <b><a href="https://asengsaragih.github.io/">https://asengsaragih.github.io/</a></b>
